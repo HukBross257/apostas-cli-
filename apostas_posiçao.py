@@ -1,6 +1,6 @@
 from random import shuffle
 # Versao de posiçoes da aposta !
-# Cada rodada a lista e embaralhada e voce deve achar a posiçao do 5 apois isso.
+# A cada rodada a lista é embaralhada e voce deve achar a posiçao do 5 apois isso.
 
 dinheiro = 100 # Valor podera ser alterado
 
@@ -37,4 +37,5 @@ while dinheiro > 0:
 
 # HukBross -> 01/10/2025
 # Alaxendre -> 01/10/2025
+
 
